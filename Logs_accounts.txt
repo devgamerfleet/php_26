@@ -1,8 +1,8 @@
 {
     "tarakmehta147@outlook.com": {
-        "Last check": "Your email or password was not valid !",
-        "Today's points": 0,
-        "Points": 0
+        "Last check": "2023-05-01",
+        "Today's points": 470,
+        "Points": 1675
     },
-    "Elapsed time": "00:00:17"
+    "Elapsed time": "00:14:45"
 }
